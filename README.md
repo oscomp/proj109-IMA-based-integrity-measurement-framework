@@ -21,8 +21,8 @@ Linux当前IMA完整性度量框架实现了内核完整性的度量，但这种
 
 ## 项目导师
 
-- 古译文
-- 邮箱 guyiwen@huawei.com
+- 朱岩
+- 邮箱 zhuyan34@huawei.com
 
 ## 难度
 
